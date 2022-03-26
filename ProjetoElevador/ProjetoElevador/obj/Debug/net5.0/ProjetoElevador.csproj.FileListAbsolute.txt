@@ -1,0 +1,16 @@
+D:\Ocean\MS-DEV\projetoFinal\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.exe
+D:\Ocean\MS-DEV\projetoFinal\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.deps.json
+D:\Ocean\MS-DEV\projetoFinal\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.runtimeconfig.json
+D:\Ocean\MS-DEV\projetoFinal\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.runtimeconfig.dev.json
+D:\Ocean\MS-DEV\projetoFinal\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.dll
+D:\Ocean\MS-DEV\projetoFinal\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.pdb
+D:\Ocean\MS-DEV\projetoFinal\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.csproj.AssemblyReference.cache
+D:\Ocean\MS-DEV\projetoFinal\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ocean\MS-DEV\projetoFinal\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.AssemblyInfoInputs.cache
+D:\Ocean\MS-DEV\projetoFinal\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.AssemblyInfo.cs
+D:\Ocean\MS-DEV\projetoFinal\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.csproj.CoreCompileInputs.cache
+D:\Ocean\MS-DEV\projetoFinal\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.dll
+D:\Ocean\MS-DEV\projetoFinal\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\refint\ProjetoElevador.dll
+D:\Ocean\MS-DEV\projetoFinal\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.pdb
+D:\Ocean\MS-DEV\projetoFinal\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.genruntimeconfig.cache
+D:\Ocean\MS-DEV\projetoFinal\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ref\ProjetoElevador.dll
